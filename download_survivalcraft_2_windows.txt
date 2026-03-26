@@ -1,2 +1,2 @@
-Download Windowndesktop-runtime-9.0.14-win-64.exe = https://drive.google.com/file/d/1eIs-EH12x6zZK-qZI5NWXb1vKv4k5ALf/view?usp=sharing
+Download windowsdesktop-runtime-9.0.14-win-x64.exe = https://drive.google.com/file/d/1eIs-EH12x6zZK-qZI5NWXb1vKv4k5ALf/view?usp=sharing
 Download [Windows]SurvivalcraftAPI_1.80-1.7z = https://github.com/h4nifjati/private/raw/refs/heads/main/%5BWindows%5DSurvivalcraftAPI_1.80-1.7z
